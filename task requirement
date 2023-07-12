@@ -1,0 +1,30 @@
+sports = [
+	['skier','⛷'],
+	['snowboarder','🏂'],
+	['apple','🍎'],
+	['hockey','🏒'],
+	['ice skate','⛸'],
+	['swimmer','🏊'],
+	['surfer','🏄‍'],
+	['watermelon','🍉'],
+	['lemon','🍋'],
+	['rowboat','🚣'],
+	['bicyclist','🚴‍']
+];
+
+Task:
+
+1. From the sports array, using method .slice(),
+copy to the new array summer_sports all arrays, that relate to the summer kind of sports.
+
+2. From the sports array, using method .slice(),
+copy to the new array winter_sports all arrays, that relate to the winter kind of sports.
+
+3. From the getting arrays: summer_sports and winter_sports cut
+ to new array: fruits only arrays, that relate to the fruits.
+
+4. Display all arrays summer_sports, winter_sports, fruits into console as in the picture console.png.
+
+
+
+undefined
